@@ -1,0 +1,93 @@
+[11-Apr-2019 20:03:55 America/Chicago] PHP Parse error:  Invalid numeric literal in /home3/valuexpc/public_html/acervo/aluno.php on line 25
+[11-Apr-2019 20:04:19 America/Chicago] PHP Parse error:  Invalid numeric literal in /home3/valuexpc/public_html/acervo/aluno.php on line 25
+[11-Apr-2019 20:05:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'int' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 6
+[11-Apr-2019 20:06:54 America/Chicago] PHP Parse error:  Invalid numeric literal in /home3/valuexpc/public_html/acervo/aluno.php on line 23
+[11-Apr-2019 20:11:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/valuexpc/public_html/acervo/aluno.php on line 13
+[11-Apr-2019 20:11:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/valuexpc/public_html/acervo/aluno.php on line 13
+[11-Apr-2019 20:24:07 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot access private property Aluno::$cpf in /home3/valuexpc/public_html/acervo/aluno.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 29
+[11-Apr-2019 20:26:02 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot access private property Aluno::$cpf in /home3/valuexpc/public_html/acervo/aluno.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 35
+[11-Apr-2019 20:26:03 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot access private property Aluno::$cpf in /home3/valuexpc/public_html/acervo/aluno.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 35
+[11-Apr-2019 20:33:06 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Aluno::__construct(), 0 passed in /home3/valuexpc/public_html/acervo/aluno.php on line 40 and exactly 3 expected in /home3/valuexpc/public_html/acervo/aluno.php:11
+Stack trace:
+#0 /home3/valuexpc/public_html/acervo/aluno.php(40): Aluno->__construct()
+#1 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 11
+[11-Apr-2019 20:42:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:44:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:44:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:45:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:46:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$profe' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[12-Apr-2019 06:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected '00100200344' (T_LNUMBER), expecting ',' or ')' in /home3/valuexpc/public_html/acervo/aluno.php on line 81
+[30-Apr-2019 12:08:37 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, object given in /home3/valuexpc/public_html/aluno_externo/login.php on line 43
+[30-Apr-2019 12:08:57 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/valuexpc/public_html/aluno_externo/login.php on line 43
+[30-Apr-2019 12:09:06 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, object given in /home3/valuexpc/public_html/aluno_externo/login.php on line 43
+[20-May-2019 15:40:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/valuexpc/public_html/aluno_externo/login.php on line 65
+[20-May-2019 16:00:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'Aluno' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/cadastro.php on line 38
+[20-May-2019 16:01:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'Aluno' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/cadastro.php on line 38
+[20-May-2019 16:02:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'Aluno' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/cadastro.php on line 38
+[20-May-2019 16:16:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'Aluno' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/cadastro.php on line 38
+[20-May-2019 18:37:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home3/valuexpc/public_html/aluno_externo/login.php on line 279
+[20-May-2019 18:47:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/login.php on line 169
+[20-May-2019 18:47:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/login.php on line 169
+[20-May-2019 18:47:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/login.php on line 169
+[20-May-2019 18:48:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/login.php on line 169
+[20-May-2019 18:49:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/login.php on line 169
+[20-May-2019 19:03:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home3/valuexpc/public_html/aluno_externo/login.php on line 172
+[20-May-2019 23:00:27 America/Chicago] PHP Parse error:  syntax error, unexpected '"), ' (T_CONSTANT_ENCAPSED_STRING) in /home3/valuexpc/public_html/aluno_externo/atualizar.php on line 120
+[20-May-2019 23:14:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'sim' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/login.php on line 130
+[26-May-2019 21:03:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home3/valuexpc/public_html/aluno_externo/login.php on line 181
+[26-May-2019 21:04:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home3/valuexpc/public_html/aluno_externo/login.php on line 216
+[27-May-2019 16:35:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 155
+[27-May-2019 16:35:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 155
+[27-May-2019 16:36:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 155
+[27-May-2019 16:36:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 155
+[27-May-2019 16:36:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 155
+[27-May-2019 16:37:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 155
+[27-May-2019 16:47:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 155
+[27-May-2019 16:48:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 155
+[27-May-2019 16:48:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 155
+[27-May-2019 16:58:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'Adolfo' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 155
+[27-May-2019 16:58:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 254
+[27-May-2019 16:59:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 254
+[27-May-2019 16:59:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 254
+[27-May-2019 17:42:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 168
+[27-May-2019 17:42:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 168
+[27-May-2019 17:43:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'id_disciplina' (T_STRING) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 167
+[27-May-2019 17:43:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 168
+[27-May-2019 17:51:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 182
+[27-May-2019 17:53:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 274
+[27-May-2019 17:53:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 274
+[27-May-2019 17:53:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 274
+[27-May-2019 18:01:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 175
+[27-May-2019 18:06:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 175
+[27-May-2019 18:06:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/valuexpc/public_html/aluno_externo/disciplina.php on line 175
+[27-May-2019 18:13:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 181
+[27-May-2019 18:13:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 181
+[27-May-2019 18:14:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 181
+[27-May-2019 18:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 181
+[27-May-2019 18:16:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 181
+[27-May-2019 18:24:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 182
+[27-May-2019 18:25:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 182
+[27-May-2019 18:25:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 182
+[27-May-2019 18:33:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 182
+[27-May-2019 18:39:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 177
+[27-May-2019 18:39:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 177
+[27-May-2019 18:41:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 236
+[27-May-2019 18:42:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:42:19 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:44:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:45:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:45:21 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:45:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:46:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:46:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
+[27-May-2019 18:49:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/valuexpc/public_html/aluno_externo/disciplina2.php on line 180
